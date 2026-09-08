@@ -12,7 +12,7 @@
 - 🔭 Currently working with **Laravel, React and Next.js**
 - 🌐 I also build custom WordPress themes and plugins
 - 🌱 Always learning new tools and frameworks
-- 📫 Contact: **your-email@example.com**
+- 📫 Contact: **priyamaurya653@gmail.com**
 
 ---
 
